@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define L 3// Define a quantidade de linhas da matriz
-#define C 3// Define a qunatidade de colunas da matriz
+#define  L 3 // Define a quantidade de linhas da matriz
+#define  C 3 // Define a qunatidade de colunas da matriz
 
 int main(){
 	
